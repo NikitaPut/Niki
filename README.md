@@ -1,10 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет!+Меня+зовут+Никита;Добро+пожаловать+в+мой+профиль)](https://git.io/typing-svg)
 
 ## 🛠 Технический стек
-- С++, Python, Java
+### Backend & Frameworks
+- Java, **JMIX**, Spring 
+- С++, Python
+
+### Базы данных
 - PostgreSQL, Redis
+
+### DevOps & Инфраструктура
 - Docker, Kubernetes
 - CI/CD, GitHub Actions
+
+### Big Data
 - Apache Spark
 - Data Processing
 
