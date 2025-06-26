@@ -19,6 +19,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NikitaPut&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Контакты
-[![Email](https://img.shields.io/badge/-nikita.putintsev@gmail.com-00ff00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:nikita.putintsev@gmail.com)
+[![Email](https://img.shields.io/badge/-nikita.putintsev@gmail.com-00ff00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](nikita.putintsev@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Niki-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/A_retired_smart_guy)
 
